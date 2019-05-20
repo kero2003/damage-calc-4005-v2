@@ -1,3 +1,6 @@
+[![CircleCI](https://circleci.com/gh/kero2003/damage-calc-4005-v2/tree/master-2018.svg?style=svg)](https://circleci.com/gh/kero2003/damage-calc-4005-v2/tree/master-2018)
+
+
 # damage-calc
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
